@@ -1,0 +1,49 @@
+{
+  "name": "react-native-action-fab-button",
+  "version": "1.0.0",
+  "description": "A customizable Floating Action Button component for React Native with FontAwesome icons",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "floating-action-button",
+    "fab",
+    "action-button",
+    "fontawesome",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0",
+    "@react-navigation/native": ">=6.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-native-fontawesome": "^0.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-native": "^0.72.0",
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "lib",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/react-native-action-fab-button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/react-native-action-fab-button/issues"
+  },
+  "homepage": "https://github.com/yourusername/react-native-action-fab-button#readme"
+}
