@@ -246,4 +246,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this package helpful, please consider giving it a ⭐ on GitHub!
 
-For issues and feature requests, please use the [GitHub Issues](https://github.com/yourusername/react-native-action-fab-button/issues) page.
+For issues and feature requests, please use the [GitHub Issues](https://github.com/mralikhan/react-native-action-fab-button/issues) page.

@@ -17,7 +17,7 @@
     "fontawesome",
     "typescript"
   ],
-  "author": "Your Name",
+  "author": "mralikhan",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0",
@@ -40,10 +40,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/react-native-action-fab-button.git"
+    "url": "https://github.com/mralikhan/react-native-action-fab-button.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/react-native-action-fab-button/issues"
+    "url": "https://github.com/mralikhan/react-native-action-fab-button/issues"
   },
-  "homepage": "https://github.com/yourusername/react-native-action-fab-button#readme"
+  "homepage": "https://github.com/mralikhan/react-native-action-fab-button#readme"
 }
