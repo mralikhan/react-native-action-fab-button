@@ -1,6 +1,6 @@
 {
   "name": "react-native-action-fab-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable Floating Action Button component for React Native with FontAwesome icons",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
